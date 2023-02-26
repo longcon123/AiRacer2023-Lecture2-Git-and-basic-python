@@ -15,8 +15,8 @@ Mỗi ký tự trong chuỗi là một ký tự ascii.
 Xuất ra số nguyên cho biết tổng số lần xuất hiện của chuỗi con trong chuỗi ban đầu.
 
 Ví dụ: 
-  Đầu vào gồm 2 dòng, dòng thứ nhất là chuỗi dài, dòng thứ hai là chuỗi con:
-    ABCDCDC
-    CDC
-  Đầu ra là số lần xuất hiện của chuỗi con trong chuỗi dài:
-    2
+  - Đầu vào gồm 2 dòng, dòng thứ nhất là chuỗi dài, dòng thứ hai là chuỗi con:
+    - ABCDCDC
+    - CDC
+  - Đầu ra là số lần xuất hiện của chuỗi con trong chuỗi dài:
+    - 2
