@@ -7,5 +7,5 @@ if __name__ == '__main__':
   sub_string = 'CDC'
   count = count_substring(s, sub_string)
   if count == 2:
-    print("Ch
+    print("Chinh xac")
   print(count)
