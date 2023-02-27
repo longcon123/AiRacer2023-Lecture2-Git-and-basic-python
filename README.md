@@ -1,8 +1,7 @@
 # AiRacer2023-Lecture2-Git-and-basic-python
 Basic python programming for AiRacer2023
 
-Người dùng nhập một chuỗi và một chuỗi con. Bạn phải in số lần chuỗi con xuất hiện trong chuỗi đã cho. Quá trình truyền chuỗi sẽ diễn ra từ trái sang phải, không phải từ phải sang trái.
-
+Người dùng nhập một chuỗi và một chuỗi con. Bạn phải in số lần chuỗi con xuất hiện trong chuỗi đã cho. Chuỗi đã cho có thứ tự luôn cố định từ trái sang phải.
 
 Định dạng đầu vào
 
@@ -20,3 +19,5 @@ Ví dụ:
     - CDC
   - Đầu ra là số lần xuất hiện của chuỗi con trong chuỗi dài:
     - 2
+
+Bạn hãy hoàn thành phần code trong file bt1.py.
